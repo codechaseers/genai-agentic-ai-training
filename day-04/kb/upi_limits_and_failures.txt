@@ -1,0 +1,9 @@
+NovaTrust Bank UPI service allows instant peer-to-peer and peer-to-merchant fund transfers directly from your savings account.
+The daily total UPI transaction limit per user is set at 100,000 NovaCredits across all connected UPI applications.
+The maximum per-transaction limit for a single UPI transfer is 25,000 NovaCredits.
+Users are allowed a maximum of 10 UPI transactions per calendar day per account.
+Common failure scenarios include incorrect UPI PIN, insufficient account balance, bank server downtime, or exceeding daily limits.
+If money is debited from your account during a failed transaction, NovaTrust initiates an auto-reversal within 24 hours.
+If the funds are not credited back within 24 hours, customers should log a ticket using the 12-digit UPI Transaction Reference Number.
+Unresolved UPI failure complaints are resolved within a guaranteed timeline of 3 business days by NovaTrust support.
+Never share your 6-digit UPI PIN or OTP with anyone; NovaTrust staff will never request your PIN.

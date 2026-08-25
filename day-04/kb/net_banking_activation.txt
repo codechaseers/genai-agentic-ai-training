@@ -1,0 +1,9 @@
+All NovaTrust Bank account holders can activate Net Banking self-service for online account management.
+To activate, you need your 9-digit Customer Identification Number (Cust-ID), registered mobile number, and active debit card.
+Visit the official portal at www.novatrustbank.synthetic and click on 'New User Net Banking Activation'.
+Step 1: Enter your Cust-ID and registered mobile number to receive a 6-digit One-Time Password (OTP).
+Step 2: Enter the OTP and validate your account identity using your 16-digit Debit Card number and ATM PIN.
+Step 3: Create a login password containing 8–16 characters with at least one uppercase letter, number, and special character.
+Step 4: Set up 3 security secret questions and confirm your preferred 4-digit Transaction Security PIN (T-PIN).
+Once activated, login access is granted immediately; however, high-value transfers above 50,000 NovaCredits are locked for 24 hours.
+If wrong password attempts exceed 3 consecutive times, net banking access will be locked for 12 hours for security.

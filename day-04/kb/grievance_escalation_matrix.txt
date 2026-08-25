@@ -1,0 +1,8 @@
+NovaTrust Bank provides a structured 3-level grievance escalation process for unresolved customer complaints.
+Level 1 (Customer Support): Contact 24/7 Helpline 1-800-555-NOVA (6682) or email support@novatrustbank.synthetic. Expected resolution time: 3 business days.
+Level 2 (Nodal Officer): If Level 1 response is unsatisfactory or unresolved after 3 days, escalate to nodal.officer@novatrustbank.synthetic.
+Level 2 submissions must include the Level 1 Ticket Reference Number. Expected resolution time for Level 2 is 5 business days.
+Level 3 (Principal Nodal Officer & Ombudsman): If unresolved after Level 2, submit an appeal to principal.nodal@novatrustbank.synthetic.
+The Principal Nodal Officer will provide a final resolution decision within 7 business days of appeal receipt.
+All complaints receive a unique 10-digit Tracking ID via SMS upon submission for real-time status tracking.
+For fraud-related urgent issues (unauthorized transactions/lost cards), initial response is provided within 2 hours under Level 1 priority.

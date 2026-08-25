@@ -1,0 +1,9 @@
+NovaTrust Bank offers three primary credit card variants tailored to different spending habits: Silver, Gold, and Platinum.
+The NovaTrust Silver Card has an annual fee of 500 NovaCredits, waived if annual spending exceeds 25,000 NovaCredits.
+Silver Card eligibility requires a minimum age of 21, a monthly income of 15,000 NovaCredits, and basic KYC approval.
+The NovaTrust Gold Card has an annual fee of 1,500 NovaCredits and offers 2x reward points on all online purchases.
+Gold Card eligibility requires a minimum age of 21, a monthly income of 45,000 NovaCredits, and an active NovaTrust savings account.
+The NovaTrust Platinum Card has an annual fee of 4,000 NovaCredits and features unlimited lounge access and 5x rewards.
+Platinum Card eligibility requires a minimum age of 25 and a monthly income of 100,000 NovaCredits.
+All cardholders get a 45-day interest-free grace period on purchases and a daily ATM cash advance limit of 10,000 NovaCredits.
+Card statement generation occurs on the 1st of every month, with the payment due date fixed for the 20th of the same month.

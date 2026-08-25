@@ -1,0 +1,9 @@
+NovaTrust Bank offers Fixed Deposit (FD) schemes to help customers earn guaranteed interest on their savings.
+The minimum deposit amount required to open a NovaTrust Fixed Deposit is 5,000 NovaCredits, with no maximum cap.
+FD tenures range from a minimum of 7 days to a maximum of 10 years (120 months).
+Interest rates range from 5.0% per annum for short tenures up to 7.5% per annum for tenures of 1 to 3 years.
+Senior citizens (aged 60 and above) receive an additional interest rate top-up of 0.50% per annum across all tenures.
+Interest can be paid out monthly, quarterly, or accumulated till maturity under the reinvestment (cumulative) option.
+Premature withdrawal of FD is permitted, subject to a premature closure penalty fee of 1.0% on the applicable interest rate.
+Partial withdrawal is available in multiples of 1,000 NovaCredits without closing the entire Fixed Deposit account.
+Upon maturity, FDs automatically renew for the same tenure at prevailing interest rates unless auto-closure is pre-selected.

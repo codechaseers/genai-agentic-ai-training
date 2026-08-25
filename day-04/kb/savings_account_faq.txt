@@ -1,0 +1,9 @@
+NovaTrust Bank offers a standard Savings Account designed for everyday banking needs.
+To maintain an active savings account, customers must keep a minimum monthly average balance of 5,000 NovaCredits.
+Accounts can be opened online via the NovaTrust Mobile App or in person at any branch using synthetic KYC verification.
+Savings accounts earn an annual interest rate of 4.5%, calculated daily and credited to the account quarterly.
+Cash deposits up to 50,000 NovaCredits per month are free of charge at all NovaTrust branches and automated deposit kiosks.
+Account holders receive 5 free ATM cash withdrawals per month at NovaTrust ATMs; subsequent withdrawals incur a 20 NovaCredit fee.
+Daily debit card withdrawal limit for standard savings account holders is capped at 25,000 NovaCredits.
+Customers can check their balance 24/7 through net banking, the mobile app, or by sending SMS 'BAL' to 55000.
+If the account balance falls below the required 5,000 NovaCredits, a non-maintenance charge of 150 NovaCredits per month is applied.

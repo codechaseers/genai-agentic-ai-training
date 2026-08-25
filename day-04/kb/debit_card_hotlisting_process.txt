@@ -1,0 +1,9 @@
+If your NovaTrust debit card is lost, stolen, or compromised, you must immediately hotlist (block) the card to prevent fraud.
+Hotlisting can be done 24/7 via the NovaTrust Mobile App under 'Card Controls' or through Net Banking under 'Security Settings'.
+Alternatively, customers can call the NovaTrust 24/7 Fraud Helpline at 1-800-555-NOVA (6682) or SMS 'BLOCK <Card Last 4 Digits>' to 55000.
+Once hotlisted, all pending and future transactions on that card are permanently blocked and cannot be reversed.
+A confirmation SMS and email containing a Unique Ticket Reference Number will be sent immediately after hotlisting.
+Customers can request a replacement debit card directly through the app, net banking, or by visiting any branch.
+A replacement card fee of 200 NovaCredits will be debited from the primary linked savings account.
+The new debit card will be delivered to the registered home address within 5 business days after request submission.
+Temporary instant blocking (freezing) is also available in the app if you suspect the card is merely misplaced.

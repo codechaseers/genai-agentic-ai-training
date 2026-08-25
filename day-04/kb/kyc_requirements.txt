@@ -1,0 +1,9 @@
+NovaTrust Bank follows strict Know Your Customer (KYC) guidelines for account opening and periodic profile updates.
+To complete KYC verification, customers must submit one synthetic Identity Proof and one synthetic Address Proof.
+Accepted Identity Proof documents: NovaTrust Universal ID (NUID), Fictional Citizen Card (FCC), or Synthetic Passport.
+Accepted Address Proof documents: Utility Bill (less than 3 months old), Lease Certificate, or Official Citizen Address Sheet.
+In-person verification can be completed at any branch, or digitally via NovaTrust Video-KYC on the official mobile app.
+Video-KYC is available from Monday to Saturday, 9:00 AM to 6:00 PM, and requires a physical display of original synthetic documents.
+Periodic KYC updates are required every 2 years for high-risk accounts and every 5 years for standard savings accounts.
+If KYC documentation remains incomplete after notice expiry, account operations will be temporarily suspended after 30 days.
+Suspended accounts cannot perform debit transactions, ATM withdrawals, or UPI transfers until fresh KYC documents are verified.

@@ -1,0 +1,9 @@
+NovaTrust Bank service charges schedule for standard individual savings and debit accounts:
+Savings Account minimum balance non-maintenance fee: 150 NovaCredits per month (if below 5,000 NovaCredits).
+ATM Cash Withdrawal Fee (NovaTrust ATMs): First 5 transactions per month free; 20 NovaCredits per transaction thereafter.
+ATM Cash Withdrawal Fee (Other Bank ATMs): 35 NovaCredits per transaction (maximum 3 free transactions per month).
+Debit Card Annual Maintenance Fee: 150 NovaCredits per year; Debit Card Replacement Fee: 200 NovaCredits.
+Physical Account Statement Fee: 50 NovaCredits per request at branch; Digital PDF Statements via Net Banking are completely free.
+Fund Transfer Charges via Net Banking: NEFT/RTGS transfers are free; IMPS transfers incur 5 NovaCredits per transaction.
+Cheque Book Charges: First 25 cheque leaves per year free; 3 NovaCredits per leaf for additional cheque leaves.
+Cheque Bounce Charges (Financial reasons): 400 NovaCredits per bounced cheque for drawer.
